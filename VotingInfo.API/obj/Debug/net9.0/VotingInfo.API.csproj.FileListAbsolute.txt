@@ -1,6 +1,5 @@
 d:\New folder\VotingInfo.API\bin\Debug\net9.0\appsettings.Development.json
 d:\New folder\VotingInfo.API\bin\Debug\net9.0\appsettings.json
-d:\New folder\VotingInfo.API\bin\Debug\net9.0\VotingInfo.API.staticwebassets.runtime.json
 d:\New folder\VotingInfo.API\bin\Debug\net9.0\VotingInfo.API.staticwebassets.endpoints.json
 d:\New folder\VotingInfo.API\bin\Debug\net9.0\VotingInfo.API.exe
 d:\New folder\VotingInfo.API\bin\Debug\net9.0\VotingInfo.API.deps.json
@@ -369,3 +368,4 @@ F:\Village\voter\VotingInfo.API\obj\Debug\net9.0\refint\VotingInfo.API.dll
 F:\Village\voter\VotingInfo.API\obj\Debug\net9.0\VotingInfo.API.pdb
 F:\Village\voter\VotingInfo.API\obj\Debug\net9.0\VotingInfo.API.genruntimeconfig.cache
 F:\Village\voter\VotingInfo.API\obj\Debug\net9.0\ref\VotingInfo.API.dll
+d:\New folder\VotingInfo.API\obj\Debug\net9.0\VotingInfo.API.sourcelink.json

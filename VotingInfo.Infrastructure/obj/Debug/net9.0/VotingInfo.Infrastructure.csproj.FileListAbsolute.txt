@@ -37,3 +37,4 @@ F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\refint\VotingInfo.In
 F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.pdb
 F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.genruntimeconfig.cache
 F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\ref\VotingInfo.Infrastructure.dll
+d:\New folder\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.sourcelink.json

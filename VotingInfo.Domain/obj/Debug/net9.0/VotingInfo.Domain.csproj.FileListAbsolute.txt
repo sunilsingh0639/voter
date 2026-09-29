@@ -22,3 +22,4 @@ F:\Village\voter\VotingInfo.Domain\obj\Debug\net9.0\refint\VotingInfo.Domain.dll
 F:\Village\voter\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.pdb
 F:\Village\voter\VotingInfo.Domain\obj\Debug\net9.0\ref\VotingInfo.Domain.dll
 F:\Village\voter\VotingInfo.Domain\obj\Debug\net9.0\VotingIn.900B6342.Up2Date
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.sourcelink.json

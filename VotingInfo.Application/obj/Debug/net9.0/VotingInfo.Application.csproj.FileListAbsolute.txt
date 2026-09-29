@@ -29,3 +29,4 @@ F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.
 F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\refint\VotingInfo.Application.dll
 F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.pdb
 F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\ref\VotingInfo.Application.dll
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.sourcelink.json
