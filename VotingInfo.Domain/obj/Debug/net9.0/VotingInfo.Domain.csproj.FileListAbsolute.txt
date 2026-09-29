@@ -1,0 +1,11 @@
+d:\New folder\VotingInfo.Domain\bin\Debug\net9.0\VotingInfo.Domain.deps.json
+d:\New folder\VotingInfo.Domain\bin\Debug\net9.0\VotingInfo.Domain.dll
+d:\New folder\VotingInfo.Domain\bin\Debug\net9.0\VotingInfo.Domain.pdb
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.AssemblyInfoInputs.cache
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.AssemblyInfo.cs
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.csproj.CoreCompileInputs.cache
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.dll
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\refint\VotingInfo.Domain.dll
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\VotingInfo.Domain.pdb
+d:\New folder\VotingInfo.Domain\obj\Debug\net9.0\ref\VotingInfo.Domain.dll

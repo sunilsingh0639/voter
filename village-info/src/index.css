@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Devanagari:wght@300;400;500;600;700;800&family=Noto+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --maroon: #7B1D1D;
+    --maroon-light: #9B2C2C;
+    --maroon-dark: #5C1414;
+    --terracotta: #C05621;
+    --terracotta-light: #DD6B20;
+    --gold: #B7791F;
+    --gold-light: #D69E2E;
+    --gold-bright: #F6AD55;
+    --cream: #FFFBF5;
+    --cream-dark: #FEF3E2;
+    --sand: #F5E6C8;
+    --sand-dark: #E8D5A3;
+    --brown: #4A2C0A;
+    --brown-light: #6B3F1A;
+    --charcoal: #2D2D2D;
+    --surface: #FFFFFF;
+    --border: #E8D5A3;
+  }
+
+  * { box-sizing: border-box; }
+
+  html { scroll-behavior: smooth; }
+
+  body {
+    font-family: 'Noto Sans Devanagari', 'Noto Sans', system-ui, sans-serif;
+    -webkit-font-smoothing: antialiased;
+    background-color: var(--cream);
+    color: var(--charcoal);
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after {
+      animation-duration: 0.01ms !important;
+      transition-duration: 0.01ms !important;
+    }
+  }
+}
+
+@layer utilities {
+  .font-devanagari { font-family: 'Noto Sans Devanagari', sans-serif; }
+
+  /* Rajasthan pattern border */
+  .pattern-border {
+    background-image: repeating-linear-gradient(
+      90deg,
+      var(--gold) 0px,
+      var(--gold) 4px,
+      transparent 4px,
+      transparent 12px,
+      var(--terracotta) 12px,
+      var(--terracotta) 16px,
+      transparent 16px,
+      transparent 24px
+    );
+    height: 3px;
+  }
+
+  .pattern-border-top {
+    border-top: 3px solid transparent;
+    background-image: repeating-linear-gradient(
+      90deg,
+      var(--gold) 0px,
+      var(--gold) 4px,
+      transparent 4px,
+      transparent 12px,
+      var(--terracotta) 12px,
+      var(--terracotta) 16px,
+      transparent 16px,
+      transparent 24px
+    );
+    background-size: 100% 3px;
+    background-repeat: no-repeat;
+    background-position: top;
+  }
+
+  /* Subtle mandala bg */
+  .mandala-bg {
+    background-image: radial-gradient(circle at 20% 50%, rgba(183, 121, 31, 0.05) 0%, transparent 50%),
+                      radial-gradient(circle at 80% 20%, rgba(192, 86, 33, 0.05) 0%, transparent 50%),
+                      radial-gradient(circle at 50% 80%, rgba(123, 29, 29, 0.04) 0%, transparent 50%);
+  }
+
+  /* Sand texture overlay */
+  .sand-texture {
+    background-color: var(--cream);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='4' height='4'%3E%3Crect width='4' height='4' fill='%23FFFBF5'/%3E%3Ccircle cx='1' cy='1' r='0.5' fill='%23E8D5A3' opacity='0.3'/%3E%3Ccircle cx='3' cy='3' r='0.5' fill='%23E8D5A3' opacity='0.3'/%3E%3C/svg%3E");
+  }
+
+  /* Arch shape */
+  .arch-top {
+    border-radius: 50% 50% 0 0 / 30% 30% 0 0;
+  }
+
+  /* Scroll reveal animation */
+  .reveal {
+    opacity: 0;
+    transform: translateY(24px);
+    transition: opacity 0.6s ease, transform 0.6s ease;
+  }
+  .reveal.visible {
+    opacity: 1;
+    transform: translateY(0);
+  }
+
+  /* Number counter animation */
+  @keyframes countUp {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+  .count-animate { animation: countUp 0.5s ease forwards; }
+
+  /* Shimmer skeleton */
+  @keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+  }
+  .skeleton {
+    background: linear-gradient(90deg, #f0e6d3 25%, #fdf5e8 50%, #f0e6d3 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 6px;
+  }
+
+  /* Admin sidebar active */
+  .nav-active {
+    background: linear-gradient(135deg, rgba(123, 29, 29, 0.12), rgba(192, 86, 33, 0.08));
+    border-left: 3px solid var(--maroon);
+    color: var(--maroon);
+  }
+
+  /* Card hover lift */
+  .card-hover {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  }
+  .card-hover:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(123, 29, 29, 0.12);
+  }
+
+  /* Gradient text */
+  .text-gradient {
+    background: linear-gradient(135deg, var(--maroon), var(--terracotta));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .text-gradient-gold {
+    background: linear-gradient(135deg, var(--gold), var(--gold-bright));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+}

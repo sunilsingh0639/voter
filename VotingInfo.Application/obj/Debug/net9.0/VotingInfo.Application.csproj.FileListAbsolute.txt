@@ -1,0 +1,15 @@
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.csproj.AssemblyReference.cache
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.AssemblyInfoInputs.cache
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.AssemblyInfo.cs
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.csproj.CoreCompileInputs.cache
+d:\New folder\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.deps.json
+d:\New folder\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.dll
+d:\New folder\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.pdb
+d:\New folder\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Domain.dll
+d:\New folder\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Domain.pdb
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingIn.25097B80.Up2Date
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.dll
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\refint\VotingInfo.Application.dll
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.pdb
+d:\New folder\VotingInfo.Application\obj\Debug\net9.0\ref\VotingInfo.Application.dll
