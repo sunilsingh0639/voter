@@ -13,3 +13,19 @@ d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.dll
 d:\New folder\VotingInfo.Application\obj\Debug\net9.0\refint\VotingInfo.Application.dll
 d:\New folder\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.pdb
 d:\New folder\VotingInfo.Application\obj\Debug\net9.0\ref\VotingInfo.Application.dll
+F:\Village\voter\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.deps.json
+F:\Village\voter\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.dll
+F:\Village\voter\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Application.pdb
+F:\Village\voter\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Domain.dll
+F:\Village\voter\VotingInfo.Application\bin\Debug\net9.0\VotingInfo.Domain.pdb
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.csproj.AssemblyReference.cache
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.AssemblyInfoInputs.cache
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.AssemblyInfo.cs
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.csproj.CoreCompileInputs.cache
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.sourcelink.json
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingIn.25097B80.Up2Date
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.dll
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\refint\VotingInfo.Application.dll
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\VotingInfo.Application.pdb
+F:\Village\voter\VotingInfo.Application\obj\Debug\net9.0\ref\VotingInfo.Application.dll

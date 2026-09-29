@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\New folder\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj": {}
+    "F:\\Village\\voter\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj": {}
   },
   "projects": {
-    "D:\\New folder\\VotingInfo.Application\\VotingInfo.Application.csproj": {
+    "F:\\Village\\voter\\VotingInfo.Application\\VotingInfo.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\VotingInfo.Application\\VotingInfo.Application.csproj",
+        "projectUniqueName": "F:\\Village\\voter\\VotingInfo.Application\\VotingInfo.Application.csproj",
         "projectName": "VotingInfo.Application",
-        "projectPath": "D:\\New folder\\VotingInfo.Application\\VotingInfo.Application.csproj",
-        "packagesPath": "C:\\Users\\sunilsingh2\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\VotingInfo.Application\\obj\\",
+        "projectPath": "F:\\Village\\voter\\VotingInfo.Application\\VotingInfo.Application.csproj",
+        "packagesPath": "C:\\Users\\Sunil Singh\\.nuget\\packages\\",
+        "outputPath": "F:\\Village\\voter\\VotingInfo.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunilsingh2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sunil Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -30,10 +30,11 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
-                "projectPath": "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj"
+              "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
+                "projectPath": "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj"
               }
             }
           }
@@ -48,10 +49,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -72,24 +74,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
+    "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj",
+        "projectUniqueName": "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj",
         "projectName": "VotingInfo.Domain",
-        "projectPath": "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj",
-        "packagesPath": "C:\\Users\\sunilsingh2\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\VotingInfo.Domain\\obj\\",
+        "projectPath": "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj",
+        "packagesPath": "C:\\Users\\Sunil Singh\\.nuget\\packages\\",
+        "outputPath": "F:\\Village\\voter\\VotingInfo.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunilsingh2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sunil Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -102,6 +104,7 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {}
           }
@@ -116,10 +119,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "imports": [
             "net461",
@@ -137,24 +141,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\New folder\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj": {
+    "F:\\Village\\voter\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\New folder\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj",
+        "projectUniqueName": "F:\\Village\\voter\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj",
         "projectName": "VotingInfo.Infrastructure",
-        "projectPath": "D:\\New folder\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\sunilsingh2\\.nuget\\packages\\",
-        "outputPath": "D:\\New folder\\VotingInfo.Infrastructure\\obj\\",
+        "projectPath": "F:\\Village\\voter\\VotingInfo.Infrastructure\\VotingInfo.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Sunil Singh\\.nuget\\packages\\",
+        "outputPath": "F:\\Village\\voter\\VotingInfo.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\sunilsingh2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sunil Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -167,13 +171,14 @@
         },
         "frameworks": {
           "net9.0": {
+            "framework": "net9.0",
             "targetAlias": "net9.0",
             "projectReferences": {
-              "D:\\New folder\\VotingInfo.Application\\VotingInfo.Application.csproj": {
-                "projectPath": "D:\\New folder\\VotingInfo.Application\\VotingInfo.Application.csproj"
+              "F:\\Village\\voter\\VotingInfo.Application\\VotingInfo.Application.csproj": {
+                "projectPath": "F:\\Village\\voter\\VotingInfo.Application\\VotingInfo.Application.csproj"
               },
-              "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
-                "projectPath": "D:\\New folder\\VotingInfo.Domain\\VotingInfo.Domain.csproj"
+              "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj": {
+                "projectPath": "F:\\Village\\voter\\VotingInfo.Domain\\VotingInfo.Domain.csproj"
               }
             }
           }
@@ -188,10 +193,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.300"
+        "SdkAnalysisLevel": "10.0.400"
       },
       "frameworks": {
         "net9.0": {
+          "framework": "net9.0",
           "targetAlias": "net9.0",
           "dependencies": {
             "BCrypt.Net-Next": {
@@ -229,7 +235,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.314/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

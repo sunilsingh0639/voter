@@ -17,3 +17,23 @@ d:\New folder\VotingInfo.Infrastructure\obj\Debug\net9.0\refint\VotingInfo.Infra
 d:\New folder\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.pdb
 d:\New folder\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.genruntimeconfig.cache
 d:\New folder\VotingInfo.Infrastructure\obj\Debug\net9.0\ref\VotingInfo.Infrastructure.dll
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Infrastructure.deps.json
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Infrastructure.runtimeconfig.json
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Infrastructure.dll
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Infrastructure.pdb
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Application.dll
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Domain.dll
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Application.pdb
+F:\Village\voter\VotingInfo.Infrastructure\bin\Debug\net9.0\VotingInfo.Domain.pdb
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.csproj.AssemblyReference.cache
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.AssemblyInfoInputs.cache
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.AssemblyInfo.cs
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.sourcelink.json
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingIn.5ADCBFDE.Up2Date
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.dll
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\refint\VotingInfo.Infrastructure.dll
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.pdb
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\VotingInfo.Infrastructure.genruntimeconfig.cache
+F:\Village\voter\VotingInfo.Infrastructure\obj\Debug\net9.0\ref\VotingInfo.Infrastructure.dll
